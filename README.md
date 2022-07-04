@@ -1,4 +1,13 @@
-### Hi there 👋
+<div style="align: center;"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"></div>
+
+## Hi there! I'm Manaswi 👋
+
+I am an aspiring Web developer from New Zealand, learning how to make the web look good.
+I am a self-starter who is quick to learn the new technologies and industry tools. I hope to add value to a developer team as a junior developer.
+
+### 🌱 I’m currently self-learning JavaScript
+
+### 📫 You can reach me on: manaswi.c.patil@gmail.com
 
 <!--
 **manaswipatil/manaswipatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
