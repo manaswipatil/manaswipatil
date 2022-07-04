@@ -1,7 +1,7 @@
-<div style="align: center;"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"></div>
+<div align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
-## Hi there! I'm Manaswi 👋
-
+# Hi there! I'm Manaswi 👋
+</div>
 I am an aspiring Web developer from New Zealand, learning how to make the web look good.
 I am a self-starter who is quick to learn the new technologies and industry tools. I hope to add value to a developer team as a junior developer.
 
