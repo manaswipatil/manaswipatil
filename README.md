@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there 👋 I'm Manaswi </h1>
 
-- 🔭 I’m currently working on sharpning my Data skills.
+- 🔭 I’m currently working on developing **analytical dashboards and reports** using visualization tools like **Power BI**, **Microsoft Excel**.
 
-- 🌱 I’m currently learning MS Excel, Power BI, Python.
+- 🌱 I’m exploring different cloud technologies like **Azure**, **AWS**.
 
 - 📫 How to reach me: **manaswi.c.patil@gmail.com**
 
